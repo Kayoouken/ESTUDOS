@@ -1,0 +1,9 @@
+ *{
+    margin: 0;              /*padrão para com o tamano e relacionado a todas as tags*/
+    padding: 0 ;
+    box-sizing: border-box;
+ }
+
+ ul{
+    list-style: none;
+ }
